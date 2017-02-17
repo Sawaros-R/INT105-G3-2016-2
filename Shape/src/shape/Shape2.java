@@ -1,7 +1,5 @@
 package shape;
-
 import java.util.*;
-
 public class Shape2 implements Iterator<Shape>, Iterable<Shape> {
     Shape[] shapes;
     private int ind=-1;
